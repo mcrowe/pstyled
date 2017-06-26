@@ -1,6 +1,6 @@
 {
   "name": "@mcrowe/pstyled",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Style Preact components in pure Javascript",
   "author": "Mitch Crowe (http://www.mitchcrowe.com)",
   "license": "ISC",
