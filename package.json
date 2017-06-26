@@ -1,0 +1,25 @@
+{
+  "name": "@mcrowe/pstyled",
+  "version": "0.0.3",
+  "description": "Style Preact components in pure Javascript",
+  "author": "Mitch Crowe (http://www.mitchcrowe.com)",
+  "license": "ISC",
+  "repository": "https://github.com/mcrowe/pstyled",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "lib/index.js",
+  "typings": "lib/index",
+  "files": [
+    "lib/"
+  ],
+  "devDependencies": {
+    "@types/node": "^7.0.12",
+    "preact": "^8.1.0",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.1.4"
+  },
+  "peerDependencies": {
+    "preact": "*"
+  }
+}
